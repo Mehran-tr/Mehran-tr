@@ -4,7 +4,7 @@ My name is Mehran Taheri
 
 
 
-<p align="center">
+<p align="left">
 
 <a href="https://stackoverflow.com/users/8819674/mehran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="4361844" height="30" width="40" /></a>
 
