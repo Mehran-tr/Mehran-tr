@@ -12,7 +12,7 @@ My name is Mehran Taheri
 
 <a href="https://stackoverflow.com/users/8819674/mehran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="4361844" height="30" width="40" /></a>
 <a href="https://medium.com/@mehrantr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mehrantr" height="30" width="40" /></a>
-
+[![Gmail Badge](https://img.shields.io/badge/-mehran.taheri.t@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mehran.taheri.t@gmail.com)](mailto:mehran.taheri.t@gmail.com)
 </p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mehran-tr&show_icons=true&include_all_commits=true&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
