@@ -3,7 +3,7 @@
 My name is Mehran Taheri
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehran-tr&label=Profile%20views&color=0e75b6&style=flat" alt="mehran-tr" /> </p>
-[![Gmail Badge](https://img.shields.io/badge/-mehran.taheri.t@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mehran.taheri.t@gmail.com)](mailto:mehran.taheri.t@gmail.com)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehran-tr" alt="mehran-tr" /></a> </p>
 
 
